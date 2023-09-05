@@ -1,0 +1,113 @@
+<html>
+
+<head>
+    <title>Export Data Ke Excel Dengan PHP - www.malasngoding.com</title>
+</head>
+
+<body>
+    <style type="text/css">
+        body {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        table th,
+        table td {
+            border: 1px solid #3c3c3c;
+            padding: 3px 8px;
+
+        }
+
+        a {
+            background: blue;
+            color: #fff;
+            padding: 8px 10px;
+            text-decoration: none;
+            border-radius: 2px;
+        }
+    </style>
+
+    
+
+
+    <table border="1">
+        <tr>
+            <th>No</th>
+            <th>Number</th>
+            <th>Name</th>
+
+        </tr>
+                    <tr>
+                <td>1</td>
+                <td>6289684058122-1578134376@g.us</td>
+                <td>Alumni SDN KAREHKEL 02✨</td>
+
+            </tr>
+                    <tr>
+                <td>2</td>
+                <td>6281553458738-1593832792@g.us</td>
+                <td>🇮🇩Learn English Together🇺🇸</td>
+
+            </tr>
+                    <tr>
+                <td>3</td>
+                <td>6285892209982-1619107886@g.us</td>
+                <td>STM ARAB 😎</td>
+
+            </tr>
+                    <tr>
+                <td>4</td>
+                <td>62895397191950-1619322660@g.us</td>
+                <td>Opik emul Robet</td>
+
+            </tr>
+                    <tr>
+                <td>5</td>
+                <td>6289522811620-1580546378@g.us</td>
+                <td>M PEDIA OFFICIAL</td>
+
+            </tr>
+                    <tr>
+                <td>6</td>
+                <td>6282298859671-1624158257@g.us</td>
+                <td>TEST WA</td>
+
+            </tr>
+                    <tr>
+                <td>7</td>
+                <td>12678798141-1576769514@g.us</td>
+                <td>Basic English Learning</td>
+
+            </tr>
+                    <tr>
+                <td>8</td>
+                <td>6283116464426-1572681880@g.us</td>
+                <td>اللغة العربية / الاعداد</td>
+
+            </tr>
+                    <tr>
+                <td>9</td>
+                <td>6282292588314-1571698580@g.us</td>
+                <td>Belajar bahasa inggris</td>
+
+            </tr>
+                    <tr>
+                <td>10</td>
+                <td>6283879794235-1606220562@g.us</td>
+                <td>international group🥀</td>
+
+            </tr>
+                    <tr>
+                <td>11</td>
+                <td>6281314382280-1576374650@g.us</td>
+                <td>Fun English Community~FEC</td>
+
+            </tr>
+            </table>
+</body>
+
+</html>
